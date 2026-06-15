@@ -3,7 +3,7 @@
     padding: 0;
 }
 
-.cabecalho {
+.header {
     padding: 15px 25px;
     display: flex;
     justify-content: space-between;
@@ -34,7 +34,7 @@ main {
     align-items: center;
 }
 
-.cabecalho-link {
+.header-link {
     color: #fff;
     text-decoration: none;
 }
@@ -75,3 +75,4 @@ section {
     display: flex;
     gap: 16px;
 }
+
